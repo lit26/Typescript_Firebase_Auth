@@ -1,0 +1,14 @@
+.AuthContainer{
+    width: 350px;
+    margin:auto;
+    padding: 5px;
+    .AuthContainer__form{
+        border: 1px solid #e9ecef;
+        padding: 30px;
+        border-radius: 5px;
+    }
+    button{
+        width: 100%;
+        margin: 5px 0px;
+    }
+}

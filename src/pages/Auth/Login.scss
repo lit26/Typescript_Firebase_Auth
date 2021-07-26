@@ -1,0 +1,15 @@
+.Login__form{
+    .Login__google{
+        display:flex;
+        align-items: center;
+        width: 160px;
+        margin: auto;
+        span{
+            margin-right: 3px;
+        }
+        svg{
+            width: 21px;
+            height:21px;
+        }
+    }
+}
